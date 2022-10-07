@@ -1495,6 +1495,7 @@ button:focus {
 /* btn bottom to top */
 
 .btnscroll {
+    display: none;
     position: fixed !important;
     border: none;
     right: 10px;
