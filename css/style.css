@@ -1179,7 +1179,7 @@ button:focus {
 
 .middleSec .middlcolOne {
     border: 2px solid var(--color-green);
-    padding: 50px 20px 90px 20px;
+    padding: 5px 20px 90px 20px;
     position: relative;
     overflow: hidden;
     z-index: 1;
@@ -1443,7 +1443,7 @@ button:focus {
 
 .frombussines .innerfrombussines::after {
     content: "";
-    background-image: url(../assets/office.jpg) !important;
+    background-image: url(../assets/people.jpg) !important;
     background-repeat: no-repeat;
     background-size: cover;
     width: 60% !important;
@@ -1474,7 +1474,7 @@ button:focus {
 /* enjoyAgency */
 
 .enjoyAgency {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 .enjoyAgency .innerenjoyAgency p {
@@ -1482,7 +1482,6 @@ button:focus {
 }
 
 .enjoyAgency .enjoyAgencyimgs img {
-    height: 50vh !important;
     object-fit: fill;
 }
 
@@ -1647,7 +1646,7 @@ button:focus {
     }
     .frombussines .innerfrombussines::after {
         content: "";
-        background-image: url(../assets/office.jpg) !important;
+        background-image: url(../assets/people.jpg) !important;
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center !important;
